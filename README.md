@@ -151,4 +151,4 @@ matplotlib
 
 ---
 
-Made with 💡 by **Prathmesh Aglawe**
+Made with 💡 by **Nivedit_Bagokar**
